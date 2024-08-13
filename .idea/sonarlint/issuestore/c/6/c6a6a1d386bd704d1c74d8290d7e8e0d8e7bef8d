@@ -1,0 +1,8 @@
+
+[
+java:S1854"9Remove this useless assignment to local variable "somar".(†öûÿÿÿÿ8²«’É”2
+y
+java:S4276"WRefactor this code to use the more specialised Functional Interface 'IntBinaryOperator'(†öûÿÿÿÿ8Ã«’É”2
+L
+java:S1481"*Remove this unused "somar" local variable.(†öûÿÿÿÿ8Ï«’É”2
+G	java:S106"+Replace this use of System.out by a logger.(˜¿ë€8Ó«’É”2

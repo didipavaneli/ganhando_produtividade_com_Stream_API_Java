@@ -1,0 +1,9 @@
+
+g
+java:S1854"ERemove this useless assignment to local variable "imprimirNumeroPar".(ç” óþÿÿÿÿ8£ÒŸÉ”2
+s
+java:S4276"QRefactor this code to use the more specialised Functional Interface 'IntConsumer'(ç” óþÿÿÿÿ8§ÒŸÉ”2
+G	java:S106"+Replace this use of System.out by a logger.(™¢Â¹8¯ÒŸÉ”2
+X
+java:S1481"6Remove this unused "imprimirNumeroPar" local variable.(ç” óþÿÿÿÿ8°ÒŸÉ”2
+L	java:S106"+Replace this use of System.out by a logger.(¹¦…‡úÿÿÿÿ8¸ÒŸÉ”2
